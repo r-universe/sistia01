@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "DWLS"]
-	path = DWLS
-	url = https://github.com/sistia01/dwls
-	shallow = true
-	registered = true
